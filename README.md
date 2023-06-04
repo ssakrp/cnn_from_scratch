@@ -1,2 +1,2 @@
 # cnn_from_scratch
-I created a convolutional neural network without any deep learning modules in this project.
+I created a convolutional neural network without any deep learning modules in this project. There are 3 classes: Convolutional layer, Pooling layer, FullyConnected layer. Every class has its own functional. There are data (MNIST) loading, CNN creating and training after description of classes. More information you can find in a file called "information" (RUS), where I published full report about the program.
